@@ -1,0 +1,5 @@
+{
+  "network": "10.0.0.0/24",
+  "total_addresses": 256,
+  "allocatable_addresses": 251
+}
